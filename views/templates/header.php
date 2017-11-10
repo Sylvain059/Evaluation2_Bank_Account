@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>Bank Account</title>
+    <!-- FAVICON LINK -->
+    <link rel="icon" type="image/png" href="../money.png" />
+    <!-- FONT LINK -->
+
+    <!-- CSS LINK -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
     <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
   </head>
