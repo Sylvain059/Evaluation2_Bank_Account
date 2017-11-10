@@ -6,6 +6,7 @@ body{
 }
 
 nav, 
-footer{
+.page-footer{
 	background-color: #718CF4;
+	color: #fff;
 }
